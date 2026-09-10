@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://giphy.com/gifs/netflix-cyberpunk-edgerunners-RGyUJwAFjP38P3uEiV" width="600px" alt="Banner animado">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR5ZWpwNGR4aG12d2VuaDltN2tib3M3c3hvenNtbml1bzAyZzF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" alt="Banner animado" width="100%">
 </p>
 <!--
 **nikolai-afk/nikolai-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
