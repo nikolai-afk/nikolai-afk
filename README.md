@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hiii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR5ZWpwNGR4aG12d2VuaDltN2tib3M3c3hvenNtbml1bzAyZzF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" alt="Banner animado" width="650" style="border-radius: 10px;">
@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 Un poco sobre mí
+### 🚀 A little about me
 
-- 🎓 **Estudiante de Desarrollo de Software e Ingeniería de Sistemas.**
-- 💻 Actualmente trabajando con **Python, HTML, CSS, JavaScript y React**.
-- 🛠️ Aprendiendo sobre **Estructuras de Datos y Álgebra Lineal**.
-- 👾 *Current Status:* Grindear experiencia en desarrollo.
+- 🎓 **Software Development Student.**
+- 💻 Currently working with **Python, HTML, CSS, JavaScript y React**.
+- 🛠️ Learning about **Data Structures**.
+- 👾 *Current Status:* Grinding for development experience.
 
 <br>
 
