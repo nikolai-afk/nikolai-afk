@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://giphy.com/gifs/netflix-cyberpunk-edgerunners-RGyUJwAFjP38P3uEiV" width="600px" alt="Banner animado">
+</p>
 <!--
 **nikolai-afk/nikolai-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
