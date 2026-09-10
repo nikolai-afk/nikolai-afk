@@ -3,8 +3,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR5ZWpwNGR4aG12d2VuaDltN2tib3M3c3hvenNtbml1bzAyZzF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" alt="Banner animado" width="750px" style="border-radius: 10px;">
 </p>
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nikolai-afk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</a>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
