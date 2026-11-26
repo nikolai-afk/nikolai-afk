@@ -12,7 +12,7 @@
 
 ### 🚀 A little about me
 
-- 🎓 **Software Development Student.**
+- 🎓 **Software Development Student.** in **Universidad de la Costa (CUC)** (**Second Semester**)
 - 💻 Currently working with **Python, HTML, CSS, JavaScript y React**.
 - 🛠️ Learning about **Data Structures**.
 - 👾 *Current Status:* Grinding for development experience.
